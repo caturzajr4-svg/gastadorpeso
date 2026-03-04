@@ -1,0 +1,5 @@
+{
+  "name": "GastadorPeso",
+  "description": "A comprehensive personal finance tracker featuring real-time analytics, transaction management, and automated balance calculation with a clean, modern UI.",
+  "requestFramePermissions": []
+}
